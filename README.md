@@ -1,4 +1,4 @@
-# GitLens &mdash; Supercharge Git in <!-- #vscode -->VS Code<!-- /#vscode: Your Editor -->
+## GitLens &mdash; Supercharge Git in <!-- #vscode -->VS Code<!-- /#vscode: Your Editor -->
 
 > Understand any line of code, keep every branch, worktree, and coding agent in view, and ship cleaner history &mdash; without leaving <!-- #vscode -->VS Code<!-- /#vscode: your editor -->.
 
